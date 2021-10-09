@@ -8,6 +8,8 @@
 
 - 👯 I’m looking to collaborate on **Kaggle Competitions.**
 
+- 👋 I am **happy to relocate** for the right opportunity.
+
 - 👨‍💻 All of my projects are available at [https://github.com/K-Merrick/](https://github.com/K-Merrick/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kevin-m-olivier/](https://www.linkedin.com/in/kevin-m-olivier/)
