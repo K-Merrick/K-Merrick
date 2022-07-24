@@ -2,13 +2,9 @@
 <h4 align="center">I'm a passionate machine learning engineer with a knack for solving complex puzzles. My backgrounds is in theoretical philosophy, which has trained me to approach any puzzle critically and often find novel solutions. I've recently completed an intensive 9-month data science bootcamp with Practicum by Yandex, where I was also promoted to senior student; as such, I spend some of my free time answering students' questions and providing general support. Aside from being a certified data scientist, I regularly take certification courses on Coursera and other similar platforms. Certification courses I've completed include: Python Specialization, Accelerated Deep Learning with GPUs, Git and Hithub, SQL for Data Scientists, Intro to Machine Learning, Intermediate Machine Learning, Tutor Academy Master Course, Professional Scrum Master, etc. Regarding my academic career, I obtained my PhD in theoretical philosophy from the University of Aberdeen (Scotland) and my Masters from the University of Groningen (Netherlands).</h3>
 
 
-- 🔭 I’m currently working on **obtaining my Deep Learning Professional certification.**
+- 🔭 I’m currently working as a Senior Data Science consultant at Guidehouse.
 
-- 🌱 I’m currently learning **about deep learning and neural networks.**
-
-- 👯 I’m looking to collaborate on **Kaggle Competitions.**
-
-- 👋 I am **happy to relocate** for the right opportunity.
+- 🌱 I’m currently learning RPA.
 
 - 👨‍💻 All of my projects are available at [https://github.com/K-Merrick/](https://github.com/K-Merrick/)
 
